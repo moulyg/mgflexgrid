@@ -1,2 +1,3 @@
-# mgflexgrid
-Flex box grid
+# Mgflexgrid Component
+
+awesome react component
